@@ -97,7 +97,5 @@ btn_id = tk.Button(window,text=f" ?",command=onload_pokemon)
 btn_id.config(font=("Helvetica",13),bg="white")
 btn_id.pack(padx=9, pady=9)
 
-
-
 window.mainloop()
 
